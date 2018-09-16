@@ -1,0 +1,11 @@
+.helloDyma
+{
+    font-weight: bold;
+    font-size:45px;
+    color: rgb(138, 50, 189);
+    border: 1px solid rgb(97, 8, 63);
+    box-shadow: rgb(37, 2, 23) 1px 1px 2px;
+    padding:5px;
+    border-radius: 8px;
+    text-align: center;
+}
